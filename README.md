@@ -59,7 +59,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/56309495/125907457-bc4c5b35-4c9f-48ae-b5f2-0a00c15e83e7.png" alt="Laragon" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="Laragon" width="40" height="40"/>
   </a>
 </p>
 
@@ -90,8 +90,11 @@
   <a href="https://framer.com/motion" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/websockets.svg" alt="WebSockets" width="40" height="40"/> 
+  <a href="https://www.canva.com/" target="_blank"> 
+    <img src="https://firebearstudio.com/blog/wp-content/uploads/2022/11/1A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" width="40" height="40"/> 
+  </a>
+  <a href="https://www.lucidchart.com" target="_blank"> 
+    <img src="https://www.commonsense.org/sites/default/files/png/2022-08/lucidchart-logo.png" alt="lucidchart" width="40" height="40"/> 
   </a>
 </p>
 
