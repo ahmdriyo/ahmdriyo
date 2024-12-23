@@ -3,7 +3,7 @@
 ## 🌟 About Me:
 - 🎓 5th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
 - 🖥️ Passionate Web Developer and Freelancer  
-- 🧑‍💻 Currently building **MahaKreatif Studio** as part of the Wirausaha Merdeka program  
+- 🧑‍💻Currently building **MahaKreatif Studio** as part of the Wirausaha Merdeka program  
 - 🚀 Aspiring Web3 and Blockchain Enthusiast  
 
 ## 🌱 Currently Learning:
@@ -20,7 +20,8 @@
 - 🏋️‍♂️ Gym and staying healthy  
 - 👨‍🍳 Cooking and trying new recipes  
 - 💡 Exploring new tech and freelancing opportunities  
-- 📚 Writing e-books, like my upcoming **"Travel Guide to Indonesia"**
+- 📚 Exploring knowledge through reading books about **philosophy** and **personal finance**  
+
 
 ---
 
@@ -28,10 +29,7 @@
 - [**MahaKreatif Studio**](https://mahakreatif.vercel.app)  
   Collaborative platform connecting students and customers for creative projects.  
   - 🌐 Hosted on Vercel | 💾 Powered by Supabase | 💳 Payment via Midtrans  
-
-- [**Lapak IKN**](#)  
-  Comprehensive service platform for new residents in IKN.  
-  - 💡 Features include family services, home care, education, and healthcare.  
+  
 
 ---
 
