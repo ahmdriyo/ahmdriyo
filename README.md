@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Riyo Kusuma 👋
 
-<!--
-**ahmdriyo/ahmdriyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me:
+- 🎓 5th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
+- 🖥️ Passionate Web Developer and Freelancer  
+- 🧑‍💻 Currently building **MahaKreatif Studio** as part of the Wirausaha Merdeka program  
+- 🚀 Aspiring Web3 and Blockchain Enthusiast  
+- 🌏 Dreaming to help **new residents in IKN** with innovative services  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning:
+- **PostgreSQL** to master database design and queries  
+- **TypeScript** to enhance my React and Next.js projects  
+- **Web3** and Blockchain technologies for future-proof solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolbox:
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Dart, SQL  
+- **Frameworks & Tools**: React, Next.js, Tailwind CSS, React Native, Prisma, Supabase  
+- **Other Skills**: Framer Motion for animations, Firebase for real-time apps  
+
+## 🌍 My Passions:
+- 🏋️‍♂️ Gym and staying healthy  
+- 👨‍🍳 Cooking and trying new recipes  
+- 💡 Exploring new tech and freelancing opportunities  
+- 📚 Writing e-books, like my upcoming **"Travel Guide to Indonesia"**
+
+---
+
+## ✨ Highlight Projects:
+- [**MahaKreatif Studio**](https://mahakreatif.vercel.app)  
+  Collaborative platform connecting students and customers for creative projects.  
+  - 🌐 Hosted on Vercel | 💾 Powered by Supabase | 💳 Payment via Midtrans  
+
+- [**Lapak IKN**](#)  
+  Comprehensive service platform for new residents in IKN.  
+  - 💡 Features include family services, home care, education, and healthcare.  
+
+---
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadRiyoKusuma&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadRiyoKusuma&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Fun Facts:
+- I love creating engaging UI animations with **Framer Motion**  
+- I'm planning to expand my freelancing services internationally 🌎  
+- I'm exploring YouTube Shorts for creative and AI-based content  
+
+---
+
+## 📬 Reach Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmadriyo)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/ahmadriyo)  
+[![Projects.co.id](https://img.shields.io/badge/Projects.co.id-yellow?style=flat)](https://projects.co.id/user/ahmadriyo)  
+
+---
+
+## 🌟 Random Inspiration:
+_"Consistency beats talent when talent doesn’t work hard."_  
+
+---
+
+> 🚀 Let's build something amazing together. Open to collaborations and freelance projects!
