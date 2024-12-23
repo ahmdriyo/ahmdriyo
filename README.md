@@ -113,13 +113,6 @@
   Collaborative platform connecting students and customers for creative projects.  
   - 🌐 Hosted on Vercel | 💾 Powered by Supabase | 💳 Payment via Midtrans  
   
-
----
-
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadRiyoKusuma&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadRiyoKusuma&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎯 Fun Facts:
@@ -132,7 +125,6 @@
 ## 📬 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmadriyo)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/ahmadriyo)  
-[![Projects.co.id](https://img.shields.io/badge/Projects.co.id-yellow?style=flat)](https://projects.co.id/user/ahmadriyo)  
 
 ---
 
