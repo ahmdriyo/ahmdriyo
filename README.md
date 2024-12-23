@@ -12,9 +12,67 @@
 - **Web3** and Blockchain technologies for future-proof solutions  
 
 ## 🛠️ My Toolbox:
-- **Languages**: HTML, CSS, JavaScript, TypeScript, SQL  
-- **Frameworks & Tools**: React, Next.js, Tailwind CSS, React Native, Prisma, Supabase  
-- **Other Skills**: Framer Motion for animations, Firebase for real-time apps  
+
+### 🗣️ Languages:
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+</p>
+
+### ⚙️ Frameworks & Tools:
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://prisma.io/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <a href="https://supabase.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
+  </a>
+  <a href="https://vercel.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> 
+  </a> 
+</p>
+
+### ✨ Other Skills:
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://framer.com/motion" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="framer motion" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/websockets.svg" alt="websockets" width="40" height="40"/> 
+  </a>
+</p>
+ 
 
 ## 🌍 My Passions:
 - 🏋️‍♂️ Gym and staying healthy  
