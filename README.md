@@ -121,6 +121,13 @@
 - I'm exploring YouTube Shorts for creative and AI-based content  
 
 ---
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmdriyo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdriyo&layout=compact&theme=tokyonight)
+
+
+---
+
 
 ## 📬 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmadriyo)  
