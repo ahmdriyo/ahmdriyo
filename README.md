@@ -5,7 +5,6 @@
 - 🖥️ Passionate Web Developer and Freelancer  
 - 🧑‍💻 Currently building **MahaKreatif Studio** as part of the Wirausaha Merdeka program  
 - 🚀 Aspiring Web3 and Blockchain Enthusiast  
-- 🌏 Dreaming to help **new residents in IKN** with innovative services  
 
 ## 🌱 Currently Learning:
 - **PostgreSQL** to master database design and queries  
@@ -13,7 +12,7 @@
 - **Web3** and Blockchain technologies for future-proof solutions  
 
 ## 🛠️ My Toolbox:
-- **Languages**: HTML, CSS, JavaScript, TypeScript, Dart, SQL  
+- **Languages**: HTML, CSS, JavaScript, TypeScript, SQL  
 - **Frameworks & Tools**: React, Next.js, Tailwind CSS, React Native, Prisma, Supabase  
 - **Other Skills**: Framer Motion for animations, Firebase for real-time apps  
 
