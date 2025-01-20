@@ -131,10 +131,8 @@
 
 ## 📬 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/ahmd-riyo)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/ahmd_riyo/#)
-
-My Web Portofolio 
-(https://web-porto-ahmadriyo.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/ahmd_riyo/#)  
+[![Website](https://img.shields.io/badge/Portfolio-website-brightgreen?style=flat&logo=vercel)](https://web-porto-ahmadriyo.vercel.app/)
 
 ---
 
