@@ -107,16 +107,11 @@
 ---
 
 ## ✨ Highlight Projects:
-- [**MahaKreatif Studio**](https://mahakreatif.vercel.app)  
-  Collaborative platform connecting students and customers for creative projects.  
-  - 🌐 Hosted on Vercel | 💾 Powered by Supabase | 💳 Payment via Midtrans  
-  
----
+
 
 ## 🎯 Fun Facts:
 - I love creating engaging UI animations with **Framer Motion**  
 - I'm planning to expand my freelancing services internationally 🌎  
-- I'm exploring YouTube Shorts for creative and AI-based content  
 
 ---
 ## 📊 GitHub Stats:
