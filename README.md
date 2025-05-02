@@ -1,10 +1,8 @@
 # Hi there, I'm Ahmad Riyo Kusuma 👋
 
 ## 🌟 About Me:
-- 🎓 5th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
-- 🖥️ Passionate Web Developer and Freelancer  
-- 🧑‍💻Currently building **MahaKreatif Studio** as part of the Wirausaha Merdeka program  
-- 🚀 Aspiring Web3 and Blockchain Enthusiast  
+- 🎓 6th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
+- 🖥️ Passionate Web Developer and Freelancer   
 
 ## 🌱 Currently Learning:
 - **PostgreSQL** to master database design and queries  
