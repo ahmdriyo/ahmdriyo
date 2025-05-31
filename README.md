@@ -1,17 +1,17 @@
 # Hi there, I'm Ahmad Riyo Kusuma 👋
 
-## 🌟 About Me:
+## 🌟 About Me :
 - 🎓 6th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
 - 🖥️ Passionate Web Developer and Freelancer   
 
-## 🌱 Currently Learning:
+## 🌱 Currently Learning :
 - **PostgreSQL** to master database design and queries  
 - **TypeScript** to enhance my React and Next.js projects  
 - **Web3** and Blockchain technologies for future-proof solutions  
 
-## 🛠️ My Toolbox:
+## 🛠️ My Toolbox :
 
-### 🗣️ Languages:
+### 🗣️ Languages :
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-### 💾 Databases:
+### 💾 Databases :
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
@@ -97,7 +97,7 @@
 </p>
 
 
-## 🌍 My Passions:
+## 🌍 My Passions :
 - 🏋️‍♂️ Gym and staying healthy  
 - 👨‍🍳 Cooking and trying new recipes  
 - 💡 Exploring new tech and freelancing opportunities  
@@ -106,15 +106,15 @@
 
 ---
 
-## ✨ Highlight Projects:
+## ✨ Highlight Projects :
 
 
-## 🎯 Fun Facts:
+## 🎯 Fun Facts :
 - I love creating engaging UI animations with **Framer Motion**  
 - I'm planning to expand my freelancing services internationally 🌎  
 
 ---
-## 📊 GitHub Stats:
+## 📊 GitHub Stats :
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmdriyo&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdriyo&layout=compact&theme=tokyonight)
 
@@ -122,14 +122,14 @@
 ---
 
 
-## 📬 Reach Me:
+## 📬 Reach Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/ahmd-riyo)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/ahmd_riyo/#)  
 [![Website](https://img.shields.io/badge/Portfolio-website-brightgreen?style=flat&logo=vercel)](https://web-porto-ahmadriyo.vercel.app/)
 
 ---
 
-## 🌟 Random Inspiration:
+## 🌟 Random Inspiration :
 _"Consistency beats talent when talent doesn’t work hard."_  
 
 ---
