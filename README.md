@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmad Riyo Kusuma 👋
 
 ## 🌟 About Me :
-- 🎓 6th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
+- 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
 - 🖥️ Passionate Web Developer and Freelancer   
 
 ## 🌱 Currently Learning :
