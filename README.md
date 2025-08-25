@@ -7,7 +7,7 @@
 ## 🌱 Currently Learning :
 - **PostgreSQL** to master database design and queries  
 - **TypeScript** to enhance my React and Next.js projects  
-- **Web3** and Blockchain technologies for future-proof solutions  
+- **Astro JS**  
 
 ## 🛠️ My Toolbox :
 
