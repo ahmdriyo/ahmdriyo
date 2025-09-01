@@ -7,7 +7,7 @@
 ## 🌱 Currently Learning :
 - **PostgreSQL** to master database design and queries  
 - **TypeScript** to enhance my React and Next.js projects  
-- **Astro ** fast, lightweight, flexible, SEO-friendly web framework, without excess JavaScript
+- **Astro** fast, lightweight, flexible, SEO-friendly web framework, without excess JavaScript
 
 ## 🛠️ My Toolbox :
 
