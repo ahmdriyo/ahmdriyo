@@ -101,7 +101,7 @@
 - 🏋️‍♂️ Gym and staying healthy  
 - 👨‍🍳 Cooking and trying new recipes  
 - 💡 Exploring new tech and freelancing opportunities  
-- 📚 Exploring knowledge through reading books about **philosophy** and **personal finance**  
+- 📚 Exploring knowledge through reading books about **philosophy**
 
 ---
 
