@@ -103,7 +103,6 @@
 - 💡 Exploring new tech and freelancing opportunities  
 - 📚 Exploring knowledge through reading books about **philosophy** and **personal finance**  
 
-
 ---
 
 ## ✨ Highlight Projects :
@@ -111,7 +110,7 @@
 
 ## 🎯 Fun Facts :
 - I love creating engaging UI animations with **Framer Motion**  
-- I'm planning to expand my freelancing services internationally 🌎  
+- I'm planning to expand my freelancing services internationally  
 
 ---
 ## 📊 GitHub Stats :
