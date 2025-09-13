@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmad Riyo Kusuma 👋
+# Hi there, I'm Ahmad Riyo Kusuma
 
 ## 🌟 About Me :
 - 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
