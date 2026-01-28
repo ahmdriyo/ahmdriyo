@@ -1,15 +1,14 @@
 # Hi there, I'm Ahmad Riyo Kusuma
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-## 🌟 About Me :
+### 🌟 About Me :
 - 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
 - 🖥️ Passionate Web Developer and Freelancer   
 
-## 🌱 Currently Learning :
+### 🌱 Currently Learning :
 - **PostgreSQL** to master database design and queries  
 - **TypeScript** to enhance my React and Next.js projects  
 - **Astro** fast, lightweight, flexible, SEO-friendly web framework, without excess JavaScript
-
-## 🛠️ My Toolbox :
 
 ### 🗣️ Languages :
 <p align="left"> 
