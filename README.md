@@ -1,5 +1,5 @@
 # Hi there, I'm Ahmad Riyo Kusuma
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 ### 🌟 About Me :
 - 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
@@ -9,6 +9,8 @@
 - **PostgreSQL** to master database design and queries  
 - **TypeScript** to enhance my React and Next.js projects  
 - **Astro** fast, lightweight, flexible, SEO-friendly web framework, without excess JavaScript
+
+##
 
 ### 🗣️ Languages :
 <p align="left"> 
@@ -25,6 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a>
 </p>
+<img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/website.png" min-width="300px" max-width="300px" width="400px" align="right"> 
 
 ### ⚙️ Frameworks & Tools :
 <p align="left"> 
@@ -96,14 +99,17 @@
 </p>
 
 
+
+
 ## 🌍 My Passions :
 - 🏋️‍♂️ Gym and staying healthy  
 - 👨‍🍳 Cooking and trying new recipes  
 - 💡 Exploring new tech and freelancing opportunities  
 - 📚 Exploring knowledge through reading books about **philosophy**
 
+##
 
-## 🎯 Fun Facts :
+🎯 Fun Facts :
 - I love creating engaging UI animations with **Framer Motion**  
 - I'm planning to expand my freelancing services internationally  
 
