@@ -103,16 +103,10 @@
 - 💡 Exploring new tech and freelancing opportunities  
 - 📚 Exploring knowledge through reading books about **philosophy**
 
----
 
 ## 🎯 Fun Facts :
 - I love creating engaging UI animations with **Framer Motion**  
 - I'm planning to expand my freelancing services internationally  
-
----
-## 📊 GitHub Stats :
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmdriyo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdriyo&layout=compact&theme=tokyonight)
 
 ### Github Statistic
 <p align="left">
@@ -122,7 +116,6 @@
 </a>
 </p>
 
----
 
 
 ## 📬 Reach Me :
