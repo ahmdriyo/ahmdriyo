@@ -14,17 +14,20 @@
 
 ### 🗣️ Languages :
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  </a>
+  <a href="https://golang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/website.png" min-width="300px" max-width="300px" width="400px" align="right"> 
@@ -35,13 +38,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> 
+  </a> 
+  <a href="https://astro.build/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
   </a> 
+  <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
+  </a> 
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a> 
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> 
+  </a> 
+  <a href="https://laravel.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> 
   </a> 
   <a href="https://prisma.io/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="Prisma" width="40" height="40"/> 
@@ -52,9 +67,18 @@
   <a href="https://supabase.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> 
   </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="https://dbeaver.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/> 
+  </a>
   <a href="https://vercel.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
   </a> 
+  <a href="https://www.cloudflare.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/> 
+  </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
