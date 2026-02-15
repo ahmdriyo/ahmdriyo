@@ -32,68 +32,63 @@
 </p>
 <img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/website.png" min-width="300px" max-width="300px" width="400px" align="right"> 
 
-### ⚙️ Frameworks & Tools :
+
+
+### ⚙️ Frontend Frameworks & Libraries :
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
   </a> 
   <a href="https://astro.build/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS / Sass" width="40" height="40"/> 
+  </a>
+  <a href="https://ant.design/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="40" height="40"/> 
+  </a>
+</p>
+
+
+
+### 🚀 Backend Frameworks :
+<p align="left"> 
   <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
   </a> 
   <a href="https://nestjs.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/> 
   </a> 
+  <a href="https://golang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/> 
+  </a>
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://prisma.io/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="Prisma" width="40" height="40"/> 
   </a>
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://supabase.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> 
-  </a>
+</p>
+
+
+
+### 💾 Databases & Backend Services :
+<p align="left">
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
   </a>
-  <a href="https://dbeaver.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/> 
-  </a>
-  <a href="https://vercel.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cloudflare.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://laragon.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="Laragon" width="40" height="40"/>
-  </a>
-</p>
-
-### 💾 Databases :
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
@@ -101,24 +96,32 @@
   <a href="https://supabase.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
 </p>
 
-### ✨ Other Skills:
+
+
+### 🛠 Dev & Productivity Tools :
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   </a> 
-  <a href="https://framer.com/motion" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/> 
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
   </a>
   <a href="https://www.canva.com/" target="_blank"> 
     <img src="https://firebearstudio.com/blog/wp-content/uploads/2022/11/1A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" width="40" height="40"/> 
   </a>
-  <a href="https://www.lucidchart.com" target="_blank"> 
-    <img src="https://www.commonsense.org/sites/default/files/png/2022-08/lucidchart-logo.png" alt="lucidchart" width="40" height="40"/> 
+  <a href="https://www.laragon.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" alt="Laragon" width="40" height="40"/> 
   </a>
 </p>
 
