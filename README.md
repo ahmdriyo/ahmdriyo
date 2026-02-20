@@ -45,17 +45,19 @@
   <a href="https://astro.build/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/> 
   </a> 
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> 
+  </a>
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
   </a>
   <a href="https://sass-lang.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS / Sass" width="40" height="40"/> 
   </a>
-  <a href="https://ant.design/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="40" height="40"/> 
+  <a href="https://ui.shadcn.com/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/> 
   </a>
 </p>
-
 
 
 ### 🚀 Backend Frameworks :
