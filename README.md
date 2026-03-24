@@ -6,10 +6,10 @@
 - 🖥️ Passionate Web Developer and Freelancer   
 
 ### 🌱 Currently Learning :
-- **PostgreSQL** to master database design and queries  
-- **TypeScript** to enhance my React and Next.js projects  
-- **Astro** fast, lightweight, flexible, SEO-friendly web framework, without excess JavaScript
-
+- **Automation Systems** to build efficient workflows and integrate smart features into web applications  
+- **LLM & AI Engineering** to explore AI integration, prompt engineering, and intelligent system design  
+- **Modern JavaScript Ecosystem** deepening expertise in React, Next.js, NestJS, Astro, and Vue.js for scalable applications  
+- **TypeScript** to write safer, more maintainable, and scalable code across frontend and backend  
 ##
 
 ### 🗣️ Languages :
