@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 ### 🌟 About Me :
-- 🎓 8th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
+- 🎓 Informatics Engineering Student at Universitas Islam Kalimantan  
 - 🖥️ Passionate Web Developer and Freelancer   
 
 ### 🌱 Currently Learning :
