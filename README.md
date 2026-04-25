@@ -13,7 +13,7 @@
 ##
 
 ### 🗣️ Languages :
-<p align="left"> 
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
