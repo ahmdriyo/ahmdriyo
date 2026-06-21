@@ -1,5 +1,13 @@
 # Hi there, I'm Ahmad Riyo Kusuma
 
+<img
+  align="left"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&vCenter=true&width=420&lines=Full-Stack+Developer;Frontend+Developer;Building+AI-Powered+Web+Applications;Open+for+Collaboration"
+  alt="Typing animation"
+/>
+<br/>
+<br/>
+
 <img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 ### 🌟 About Me :
