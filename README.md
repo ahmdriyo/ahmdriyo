@@ -123,7 +123,8 @@
 
 <img
     alt="Ahmad Riyo contribution snake"
-    src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/output/github-snake-dark.svg"
+    width="100%"
   />
 </picture>
 
