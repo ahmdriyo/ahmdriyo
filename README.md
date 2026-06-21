@@ -1,18 +1,22 @@
 # Hi there, I'm Ahmad Riyo Kusuma
-<img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+<img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 ### 🌟 About Me :
-- 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan  
-- 🖥️ Passionate Web Developer and Freelancer   
+
+- 🎓 7th Semester Informatics Engineering Student at Universitas Islam Kalimantan
+- 🖥️ Passionate Web Developer and Freelancer
 
 ### 🌱 Currently Learning :
-- **PostgreSQL** to master database design and queries  
-- **TypeScript** to enhance my React and Next.js projects  
+
+- **PostgreSQL** to master database design and queries
+- **TypeScript** to enhance my React and Next.js projects
 - **Astro** fast, lightweight, flexible, SEO-friendly web framework, without excess JavaScript
 
 ##
 
 ### 🗣️ Languages :
+
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -27,9 +31,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/website.png" min-width="300px" max-width="300px" width="400px" align="right"> 
+<img src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/main/assets/website.png" min-width="300px" max-width="300px" width="400px" align="right">
 
 ### ⚙️ Frameworks & Tools :
+
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
@@ -64,6 +69,7 @@
 </p>
 
 ### 💾 Databases :
+
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> 
@@ -83,6 +89,7 @@
 </p>
 
 ### ✨ Other Skills:
+
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
@@ -98,22 +105,22 @@
   </a>
 </p>
 
-
-
-
 ## 🌍 My Passions :
-- 🏋️‍♂️ Gym and staying healthy  
-- 👨‍🍳 Cooking and trying new recipes  
-- 💡 Exploring new tech and freelancing opportunities  
+
+- 🏋️‍♂️ Gym and staying healthy
+- 👨‍🍳 Cooking and trying new recipes
+- 💡 Exploring new tech and freelancing opportunities
 - 📚 Exploring knowledge through reading books about **philosophy**
 
 ##
 
 🎯 Fun Facts :
-- I love creating engaging UI animations with **Framer Motion**  
-- I'm planning to expand my freelancing services internationally  
+
+- I love creating engaging UI animations with **Framer Motion**
+- I'm planning to expand my freelancing services internationally
 
 ### Github Statistic
+
 <p align="left">
 <a href="https://github.com/ahmdriyo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmdriyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -121,9 +128,37 @@
 </a>
 </p>
 
+## Contribution Activity
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/output/github-snake.svg"
+  />
+
+<img
+    alt="Ahmad Riyo contribution snake"
+    src="https://raw.githubusercontent.com/ahmdriyo/ahmdriyo/output/github-snake.svg"
+  />
+</picture>
+
+## 3D Contribution Graph
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="Ahmad Riyo 3D contribution graph"
+  />
+</p>
 
 ## 📬 Reach Me :
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://id.linkedin.com/in/ahmd-riyo)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/ahmd_riyo/#)  
 [![Website](https://img.shields.io/badge/Portfolio-website-brightgreen?style=flat&logo=vercel)](https://web-porto-ahmadriyo.vercel.app/)
@@ -131,7 +166,8 @@
 ---
 
 ## 🌟 Random Inspiration :
-_"Consistency beats talent when talent doesn’t work hard."_  
+
+_"Consistency beats talent when talent doesn’t work hard."_
 
 ---
 
