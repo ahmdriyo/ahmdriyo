@@ -12,15 +12,16 @@
 
 ### 🌟 About Me :
 
-- 🎓 Informatics Engineering Student at Universitas Islam Kalimantan
-- 🖥️ Passionate Web Developer and Freelancer
+- 🎓 Informatics Engineering Graduate from Universitas Islam Kalimantan
+- 🖥️ Web Developer & Freelancer
 
 ### 🌱 Currently Learning :
 
-- **Automation Systems** to build efficient workflows and integrate smart features into web applications
-- **LLM & AI Engineering** to explore AI integration, prompt engineering, and intelligent system design
-- **Modern JavaScript Ecosystem** deepening expertise in React, Next.js, NestJS, Astro, and Vue.js for scalable applications
-- **TypeScript** to write safer, more maintainable, and scalable code across frontend and backend
+- **Cloudflare Ecosystem & Hono.js** to Building lightweight, high-performance edge web applications and APIs
+- **Web3 & Smart Contracts** to Developing decentralized applications and exploring smart contract integration
+- **AI System Integration** to Integrating AI models and LLMs into web systems to build intelligent applications
+- **AI-Driven Workflows** to Leveraging AI tools to optimize software development workflows
+- **Modern Web Architecture** to Deepening expertise in TypeScript, React, Next.js, NestJS, and Astro
 
 ##
 
